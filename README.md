@@ -11,7 +11,7 @@ This will generate a html file named fresh_tomatoes.html in the same folder or i
 
 ## Files
 ```
-udacity-movie-trailer-website.zip/
+udacity-project1-movie-trailer.zip/
 ├── css/
 │   └── style.css
 ├── img/
